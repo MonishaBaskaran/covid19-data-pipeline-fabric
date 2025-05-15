@@ -21,7 +21,7 @@ This repository contains a series of notebooks and insights demonstrating end-to
 - Created derived metrics like `death rate` and `vaccinated per 100 people`
 - Saved cleaned output as a Delta Table
 
-📂 [`day01-cleaning-and-preparation`](./day01-cleaning-and-preparation/)
+📂 [`cleaning-and-preparation`](./cleaning-and-preparation/)
 
 ---
 
@@ -32,7 +32,7 @@ This repository contains a series of notebooks and insights demonstrating end-to
 - Saved all results as structured Delta Tables
 - Extracted key insights for further visualizations
 
-📂 [`day02-aggregations-and-insights`](./day02-aggregations-and-insights/)
+📂 [`aggregations-and-insights`](./aggregations-and-insights/)
 
 ---
 
@@ -45,6 +45,7 @@ This repository contains a series of notebooks and insights demonstrating end-to
 
 ## 📈 Dataset
 - Source: [Our World in Data – COVID-19 Dataset](https://ourworldindata.org/covid-vaccinations)
+- GitHub: https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
 
 ---
 
