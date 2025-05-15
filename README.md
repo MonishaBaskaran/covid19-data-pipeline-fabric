@@ -1,4 +1,3 @@
-# covid19-data-pipeline-fabric
 # COVID-19 Data Pipeline in Microsoft Fabric
 
 This repository contains a series of notebooks and insights demonstrating end-to-end data engineering and analytics using **Microsoft Fabric** and **PySpark Notebooks**, built on top of a real-world COVID-19 dataset.
